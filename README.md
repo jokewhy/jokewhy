@@ -1,1 +1,3 @@
-<h1 style="text-align: center;">Hello, I am Jokewhy</h1>
+[!center]
+Hello, I am Jokewhy
+
