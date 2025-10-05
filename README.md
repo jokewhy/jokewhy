@@ -3,6 +3,7 @@
 ### <p align="center">I am not a formal developer, as you can tell with how many times I've committed my ReadMe.</p>
 <br>
 </br>
+
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jokewhy.visitor-badge&format=true&left_color=black&right_color=blue)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,lua)](https://skillicons.dev)
