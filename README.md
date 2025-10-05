@@ -16,11 +16,7 @@
 
 **My Statistics:**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokewhy&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokewhy&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats-one-lemon.vercel.app?user=jokewhy&theme=transparent)](https://git.io/streak-stats) </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokewhy&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokewhy&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)<p align="center">[![GitHub Streak](https://github-readme-streak-stats-one-lemon.vercel.app?user=jokewhy&theme=transparent)](https://git.io/streak-stats) </p>
 
 
 
