@@ -1,12 +1,12 @@
+<p align="right">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=jokewhy.visitor-badge&format=true&left_color=black&right_color=blue" alt="Visitors" width=auto />
+</p>
+
 # <p align="center">Hello, I am Jokewhy</p>
 
 ### <p align="center">I am not a formal developer, as you can tell with how many times I've committed my ReadMe.</p>
-<br>
 
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jokewhy.visitor-badge&format=true&left_color=black&right_color=blue)
-
-</br>
+<br></br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,lua)](https://skillicons.dev)
 
