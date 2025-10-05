@@ -15,5 +15,7 @@
 </br>
 
 **My Statistics:**
+<picture>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokewhy&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokewhy&layout=donut&theme=transparent)<p align="center">![GitHub Streak](https://github-readme-streak-stats-one-lemon.vercel.app?user=jokewhy&theme=transparent) </p>
+</picture>
